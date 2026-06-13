@@ -27,3 +27,6 @@ The Smart Light Control System offers several advantages. It significantly reduc
 This project has a wide range of applications, including residential buildings, educational institutions, offices, shopping malls, industries, and street lighting systems. Smart street lights equipped with automatic control mechanisms can save a considerable amount of energy and reduce maintenance costs for municipalities.
 
 In conclusion, the Smart Light Control System is an efficient, reliable, and practical hardware project that demonstrates the application of embedded systems, sensors, and automation technology. It provides a smart solution for modern lighting requirements while promoting energy conservation and environmental protection. The project serves as an excellent example of how technology can be used to improve everyday life and create sustainable solutions for the future.
+
+##OUTPUT:
+<img width="1448" height="1086" alt="Image" src="https://github.com/user-attachments/assets/7e9c5c3a-91d8-4d24-80f6-53d778021bc6" />
