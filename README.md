@@ -12,7 +12,6 @@
 *MENTOR*: NEELA SANTOSH
 
 ##DESCRIPTION:
-**Smart Light Control System – Hardware Project Brief**
 
 The Smart Light Control System is an innovative hardware-based project designed to automate the operation of lighting systems and improve energy efficiency. The primary objective of this project is to control lights automatically based on environmental conditions, thereby reducing unnecessary power consumption and promoting energy conservation. With the increasing demand for smart and sustainable technologies, automated lighting systems have become an important part of modern homes, offices, industries, and public infrastructure.
 
